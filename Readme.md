@@ -16,5 +16,5 @@ Online medicine supply website that allows users to order medicine with a prescr
 
 ## Link
 
-- [1mg-clone](https://dreamy-torrone-b07f17.netlify.app/)
-
+- [1mg-clone]
+<a href="link"><img src="https://dreamy-torrone-b07f17.netlify.app/" target="blank" alt=""></a>
